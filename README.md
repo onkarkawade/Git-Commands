@@ -32,8 +32,9 @@ git lfs clone git@github:user/repo.git # To clone file with all data
 ```
 
 ### Clone a specific branch
+```
 git clone -b branch_name git@github:user/repo.git
-
+```
 # 🌐 3. Remote Repositories
 
 ### Push all branches
